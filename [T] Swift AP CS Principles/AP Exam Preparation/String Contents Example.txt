@@ -1,5 +1,0 @@
-'Twas brillig, and the slithy toves
-Did gyre and gimble in the wabe
-
-1 + 1 = 2
-1, 1, 2, 3, 5, 8

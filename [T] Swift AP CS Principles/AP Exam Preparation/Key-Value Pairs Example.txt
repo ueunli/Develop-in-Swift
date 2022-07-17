@@ -1,5 +1,0 @@
-aKey: 42
-anotherKey = A string value? I think so.
-key_3_b==5.0
-__keyfour     Another string.
-5,true
