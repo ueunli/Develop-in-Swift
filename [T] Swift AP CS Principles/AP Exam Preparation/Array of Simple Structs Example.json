@@ -1,0 +1,22 @@
+[
+    {
+        "value" : 1,
+        "comment" : "multiplicative identity"
+    },
+    {
+        "value" : 2,
+        "comment" : "binary base"
+    },
+    {
+        "value" : 42,
+        "comment" : "the meaning of life"
+    },
+    {
+        "value" : 0,
+        "comment" : "additive identity"
+    },
+    {
+        "value" : 1984,
+        "comment" : "birthday of Macintosh"
+    }
+]

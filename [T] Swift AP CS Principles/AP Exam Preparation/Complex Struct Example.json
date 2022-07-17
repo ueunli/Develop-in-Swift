@@ -1,0 +1,9 @@
+{
+    "values" : [1, 3.14, 100, -273.15],
+    "bool" : false,
+    "color" : "green",
+    "nested" : {
+        "name" : "Kilobyte",
+        "count" : 1024
+    }
+}

@@ -1,0 +1,27 @@
+int0 1
+int1 1
+int2 2
+int3 3
+int4 5
+int5 8
+int6 13
+int7 21
+int8 34
+int9 55
+
+string0 Cheetah
+string1 Puma
+string2 Jaguar
+string3 Panther
+string4 Tiger
+string5 Leopard
+string6 Snow Leopard
+string7 Lion
+string8 Mountain Lion
+string9 Mavericks
+string10 Yosemite
+string11 El Capitan
+string12 Sierra
+string13 High Sierra
+string14 Mojave
+string15 Catalina
